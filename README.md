@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230219
+# Name:Priyadharshini V
+# Date:28-10-2026
 
 
 # AIM:
@@ -37,6 +37,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+<img width="881" height="866" alt="use 2" src="https://github.com/user-attachments/assets/f20d04ea-a1f8-4b3f-a098-31b8a208bea2" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1269" height="952" alt="class2" src="https://github.com/user-attachments/assets/fc812311-6b39-4f7f-9709-d15415a895c0" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1197" height="945" alt="commu2" src="https://github.com/user-attachments/assets/d8a057f0-11dd-4751-8ae5-21baf7bddac1" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1309" height="991" alt="pack2" src="https://github.com/user-attachments/assets/d6f0af8e-33a4-4051-a2b6-5e6010e6bc08" />
 
 
 
@@ -95,6 +99,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="954" height="729" alt="activ2" src="https://github.com/user-attachments/assets/8c71a8db-b43a-4680-b888-9176169a960b" />
 
 
 
@@ -117,12 +122,14 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="902" height="782" alt="se2q2" src="https://github.com/user-attachments/assets/76ea31e5-4309-4447-b8f5-c2e3f609d098" />
 
 
 
 
 
 # RESULT
+Developed the Library Management System using Star UML successfully.
 
 Thus the project to develop Library Management System was developed using Star UML Software is done successfully.
 
